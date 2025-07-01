@@ -1,5 +1,4 @@
-# 💰 Loan Risk Analyzer (Python)
-
+# 💰 Loan Risk Analyzer
 A Python-based data analysis project that explores financial and demographic patterns behind loan default risk. This project focuses on **data cleaning**, **feature engineering**, and **exploratory data analysis (EDA)** using Pandas, Seaborn, and Matplotlib.
 
 ---
@@ -23,8 +22,7 @@ To analyze how features like age, gender, income, credit score, education, and e
 
 ```
 ├── loan_risk_analysis.ipynb       # Main Jupyter notebook for analysis
-├── risk_behavior_features.xlsx    # Raw input data (Excel format)
-├── cleaned_loan_data.csv          # Output cleaned and engineered dataset
+├── risk_behaviour_dataset.csv     # Dataset
 ├── README.md                      # Documentation
 ```
 
