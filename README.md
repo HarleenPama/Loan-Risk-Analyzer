@@ -44,14 +44,14 @@ To analyze how features like age, gender, income, credit score, education, and e
 
 ## 📊 Final Insights
 
-- 🔹 Most individuals in the dataset fall within the 30–50 age range, indicating a working-age heavy population.
-- 🔹 Gender distribution is balanced, with a slightly higher representation of males.
-- 🔹 Higher education levels (like Master’s and Doctorate) are associated with higher average incomes.
-- 🔹 Single individuals tend to have slightly higher credit scores than married or divorced individuals.
-- 🔹 Income and credit score show a positive correlation — individuals with higher incomes tend to maintain better credit scores.
-- 🔹 Unemployed individuals have a higher and more variable debt-to-income (DTI) ratio, suggesting increased financial risk.
-- 🔹 Younger individuals (especially under 35) and those unemployed exhibit higher average default records.
-- 🔹 Debt-to-income ratio negatively impacts creditworthiness and is notably high in low-income and unemployed segments.
+-  Most individuals in the dataset fall within the 30–50 age range, indicating a working-age heavy population.
+-  Gender distribution is balanced, with a slightly higher representation of males.
+-  Higher education levels (like Master’s and Doctorate) are associated with higher average incomes.
+-  Single individuals tend to have slightly higher credit scores than married or divorced individuals.
+-  Income and credit score show a positive correlation — individuals with higher incomes tend to maintain better credit scores.
+-  Unemployed individuals have a higher and more variable debt-to-income (DTI) ratio, suggesting increased financial risk.
+-  Younger individuals (especially under 35) and those unemployed exhibit higher average default records.
+-  Debt-to-income ratio negatively impacts creditworthiness and is notably high in low-income and unemployed segments.
 
 ---
 
@@ -70,8 +70,6 @@ To analyze how features like age, gender, income, credit score, education, and e
 ---
 
 ## 📬 Contact
-
-Made with 💻 by [Your Name]  
 Feel free to contribute, fork, or ask questions via Issues!
 
 ---
